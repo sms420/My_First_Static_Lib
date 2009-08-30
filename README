@@ -7,3 +7,8 @@ README
 this is my first time building a static
 library. it was made from using my class
 notes for CS177. rock and roll dude.
+
+here is how to compile the app after
+downloading all the source files locally:
+
+$ gcc -o My_App_Name test.c dude.a
